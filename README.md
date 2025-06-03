@@ -15,7 +15,7 @@ This is a Flutter mobile application that interacts with the public [Rick and Mo
 ## 🚀 App Demo
 
 You can try the live demo of the application here:  
-[https://flutter-rickandmorty-demo.netlify.app/](https://flutter-rickandmorty-demo.netlify.app/)
+🎮 [Try the Live Demo!](https://flutter-rickandmorty-demo.netlify.app/)
 
 ## 📱 Download the App
 
